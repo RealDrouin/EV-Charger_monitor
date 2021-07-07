@@ -1,9 +1,12 @@
 # EV-Charger_monitor
 
+
 ![](images/home.png)
 
-![](Images/cal.png)
+![](images/cal.png)
 
-![](Images/wifi.png)
+![](images/wifi.png)
 
-![](Images/blynk.png)
+![](images/blynk.png)
+
+![](images/reboot.png)
