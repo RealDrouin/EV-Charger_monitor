@@ -12,7 +12,7 @@
 ![](images/reboot.png)
 
 # Blynk app
-![](images/Screenshot.jpg)
+<img src="images/Screenshot.jpg" Width="300" >
 
 # Schematic_EV-Charger
 
